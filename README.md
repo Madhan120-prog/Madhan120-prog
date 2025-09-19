@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi there 👋, I'm Madhan Kumar Tammineni</h1>
-<h3 align="center">MS in Computer Science @ University of Memphis | AI, Data Science & Cybersecurity Enthusiast</h3>
+<h3 align="center">MS in Computer Science @ University of Memphis | AI, Data Science & Software Dev Enthusiast</h3>
 
 ---
 
@@ -32,12 +32,11 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Graduate Research Assistant @ **University of Memphis (CfIA)**  
-- 💼 Former Associate Software Engineer @ **Carelon Global Solutions (Elevance Health)**  
-- ☁️ Cloud & Data Engineering Intern @ **LTIMindtree**  
-- 🔐 Cybersecurity Researcher working on **Adaptive MFA & Cyber Identity**  
-- 🧑‍🏫 Passionate about **AI, Data Science, Cloud, and Cybersecurity**  
-- ⚡ Fun Fact: I’ve taught peers, mentored school children, and actively volunteered in community service.  
+✨ A curious mind who loves transforming **data into insights**, **ideas into applications**, and **algorithms into impact**.  
+🌱 Currently diving deeper into **AI, Machine Learning, and Software Engineering** while blending my experience in **cloud, data, and cybersecurity**.  
+💡 I enjoy building solutions that don’t just work — but **scale, adapt, and make a difference**.  
+⚡ My journey has taken me from developing **enterprise apps in ServiceNow**, to crafting **fraud detection models**, to experimenting with **adaptive MFA in cybersecurity**.  
+🚀 Whether it’s **analyzing large datasets, designing architectures, or optimizing code**, I thrive on challenges that push me to learn and innovate.  
 
 ---
 
@@ -94,36 +93,47 @@
 ## 🛠️ Skills
 
 ### 💻 Languages & Tools  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) 
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)  
+![ServiceNow](https://img.shields.io/badge/ServiceNow-1BB55C?style=for-the-badge&logo=servicenow&logoColor=white)  
 
 ---
 
 ### 🤖 Data Science & ML  
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
-![NLP](https://img.shields.io/badge/NLP-CC0000?style=for-the-badge&logo=OpenAI&logoColor=white)  
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) 
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) 
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) 
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) 
+![NLP](https://img.shields.io/badge/NLP-CC0000?style=for-the-badge&logo=OpenAI&logoColor=white) 
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-000000?style=for-the-badge&logo=Keras&logoColor=white)  
 
 ---
 
 ### 🗄️ Databases & Visualization  
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
-![ETL](https://img.shields.io/badge/ETL-FF6F00?style=for-the-badge&logo=apache-airflow&logoColor=white)  
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)  
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white) 
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) 
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) 
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
+![ETL](https://img.shields.io/badge/ETL-FF6F00?style=for-the-badge&logo=apache-airflow&logoColor=white) 
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) 
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)  
+
+---
+
+### ☁️ Cloud & DevOps  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) 
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)  
 
 ---
 
