@@ -1,32 +1,22 @@
 <!-- Profile Banner -->
+<!-- Header with Typing Animation -->
 <p align="center">
-  <img src="https://i.ibb.co/qkkFLL0/github-banner.gif" alt="Profile Banner" width="100%"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Enthusiast;Software+Engineer;Cloud+%26+Cybersecurity+Researcher;Always+Learning+%26+Exploring+New+Tech" alt="Typing Animation" />
 </p>
 
-<h1 align="center">Hi there 👋, I'm Madhan Kumar Tammineni</h1>
-<h3 align="center">MS in Computer Science @ University of Memphis | AI, Data Science & Software Dev Enthusiast</h3>
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Madhan Kumar Tammineni</h1>
+<h3 align="center">MS in Computer Science @ University of Memphis | Passionate about AI, Data, and Software Engineering</h3>
+
 
 ---
 
-## 🔗 Connect with Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/madhan-kumar-tammineni-4487a4197/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:madhanktam@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="tel:+19012922574">
-    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-  <a href="https://github.com/Madhan120-prog">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.datascienceportfol.io/madhanktam">
-    <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-</p>
+## 🔗 Connect with Me  
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.datascienceportfol.io/madhanktam)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhan-kumar-tammineni-4487a4197/)  
+![Email](https://img.shields.io/badge/Email-madhanktam@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)  
+![Phone](https://img.shields.io/badge/Phone-%2B1--901--292--2574-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)  
 
 ---
 
@@ -141,7 +131,8 @@
 
 - 🎓 **University of Memphis** (Jan 2025 – Dec 2026)  
   *MS in Computer Science, GPA: 4.0/4.0*  
-  Coursework: ML, AI, Cryptography, OS  
+  Coursework: ML, AI, Cryptography, OS
+  - **Awards:** Peter I. Neathery Fellowship 🏅 | International Graduate Merit Scholarship 🎖️ 
 
 - 🎓 **JNTU-H (Sreenidhi Institute of Science & Technology, India)** (2019 – 2023)  
   *B.Tech in Electronics & Communication, GPA: 8.44/10*  
