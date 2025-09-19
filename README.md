@@ -129,7 +129,7 @@
 
 ## 🎓 Education
 
-- 🎓 **University of Memphis** (Jan 2025 – Dec 2026)  
+- 🎓 **University of Memphis** (Jan 2025 – Expected Graduation Dec 2026)  
   *MS in Computer Science, GPA: 4.0/4.0*  
   Coursework: ML, AI, Cryptography, OS
   - **Awards:** Peter I. Neathery Fellowship 🏅 | International Graduate Merit Scholarship 🎖️ 
