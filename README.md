@@ -1,7 +1,7 @@
 <!-- Profile Banner -->
 <!-- Header with Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Enthusiast;Software+Engineer;Cloud+%26+Cybersecurity+Researcher;Always+Learning+%26+Exploring+New+Tech" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Enthusiast;Software+Engineer;Always+Learning+%26+Exploring+New+Tech" alt="Typing Animation" />
 </p>
 
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Madhan Kumar Tammineni</h1>
