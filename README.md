@@ -163,11 +163,3 @@
 
 ---
 
-## 📞 Contact Information
-
-- 📧 **Email:** [madhanktam@gmail.com](mailto:madhanktam@gmail.com)  
-- 📱 **Phone:** +1 (901) 292-2574  
-- 🔗 **LinkedIn:** [Madhan Kumar Tammineni](https://www.linkedin.com/in/madhan-kumar-tammineni-4487a4197/)  
-- 🌐 **Portfolio:** [datascienceportfol.io/madhanktam](https://www.datascienceportfol.io/madhanktam)  
-
----
