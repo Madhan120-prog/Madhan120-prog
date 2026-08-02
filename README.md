@@ -54,10 +54,11 @@ Looking for **AI Engineer / Software Engineer** roles at product companies. Also
 ## 🚀 Featured Projects
 
 - 🏥 **Integrated Patient Records & AI Clinical Decision Assistant** | `React` `FastAPI` `MongoDB` `Gemini API` `ChromaDB`
-  - Patient-scoped **RAG pipeline** (local sentence-transformers embeddings + ChromaDB) as a semantic fallback to keyword routing
-  - Found and fixed a live retrieval-floor bug — off-topic questions were pulling real patient records; added a relevance threshold to fix it
-  - Hand-rolled **multi-agent orchestration** (specialist-per-department + synthesizer) and local vision inference (MedGemma via Ollama)
-  - **Guardrails**: citation checks, confidence gating, drug-dosage/diagnosis-language flags
+  - Core of the project is data integration, not AI. Six hospital departments run on six genuinely different storage technologies (SQLite, JSON files, dbm key-value, shelve object store, CSV flat file), deliberately isolated to        mirror how real hospital vendor systems never share a database.
+  - A Master Patient Index (MongoDB) unifies all six under one canonical patient ID, the same pattern real EHR platforms use for interoperability (Epic, IHE PIX/PDQ).
+  - Every department is reachable only through a gateway module with a uniform contract (lookup, translate, query, normalize), so the rest of the app treats all six departments identically regardless of what's underneath.
+  - AI clinical assistant layered on top of the unified data: patient-scoped RAG (ChromaDB, local embeddings) as a fallback to keyword routing, hand-rolled multi-agent orchestration for multi-department questions, and guardrails for citation checks and dosage/diagnosis-language flags.
+  - Found and fixed a real retrieval-floor bug in live testing where off-topic questions were pulling real patient records; added a relevance threshold to fix it.
 
 - 💳 **Credit Risk Analytics (AMEX Dataset)** | `Python` `XGBoost` `SHAP`
   - Processed a 1.1M+ row, 190+ feature dataset with leakage-safe preprocessing
