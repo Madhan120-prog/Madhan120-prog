@@ -17,11 +17,11 @@
 
 ## 👨‍💻 About Me
 
-✨ I build production systems that put LLMs and retrieval to work — not just wrap an API and call it a feature.
-🧠 Hands-on with **RAG pipelines, multi-agent orchestration, local/open-source model serving, and LLM guardrails**, on top of a full-stack + cloud foundation (React, FastAPI, MongoDB, AWS).
-🔬 I also run applied research on whether AI systems can actually be trusted — LLM hallucination/instruction-following experiments, and a federated-learning defense against poisoning attacks (submitted to IEEE S&P 2026).
-🚧 Currently building a multi-agent university assistant with **LangGraph** — more soon.
-🎯 Looking for **AI Engineer / Software Engineer** roles at product companies. Also open to health-tech given my St. Jude background, but not exclusively focused there.
+ I build production systems that put LLMs and retrieval to work and not just wrap an API and call it a feature.
+ Hands-on with **RAG pipelines, multi-agent orchestration, local/open-source model serving, and LLM guardrails**, on top of a full-stack + cloud foundation (React, FastAPI, MongoDB, AWS).
+ I also run applied research on whether AI systems can actually be trusted LLM hallucination/instruction-following experiments, and a federated-learning defense against poisoning attacks (submitted to IEEE S&P 2026).
+currently building a multi-agent university assistant with **LangGraph** and  more soon.
+Looking for **AI Engineer / Software Engineer** roles at product companies. Also open to health-tech given my St. Jude background, but not exclusively focused there.
 
 ---
 
