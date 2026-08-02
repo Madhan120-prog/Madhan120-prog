@@ -1,160 +1,130 @@
-<!-- Profile Banner -->
-<!-- Header with Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Enthusiast;Software+Engineer;Always+Learning+%26+Exploring+New+Tech" alt="Typing Animation" />
-</p>
+# Madhan Kumar Tammineni
 
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Madhan Kumar Tammineni</h1>
-<h3 align="center">MS in Computer Science @ University of Memphis | Passionate about AI, Data, and Software Engineering</h3>
+**AI & Software Engineer · MS Computer Science @ University of Memphis**
 
+[LinkedIn](https://www.linkedin.com/in/madhan-kumar-tammineni-4487a4197/) · [Portfolio](https://www.datascienceportfol.io/madhanktam) · madhant120@gmail.com
 
 ---
 
+## About
 
-## 🔗 Connect with Me  
+I build production systems that put LLMs and retrieval to work, not just wrap an API and call it a feature. My background spans full-stack development (React, FastAPI, MongoDB), enterprise platforms (ServiceNow), and cloud infrastructure (AWS), and over the last year I've been doing hands-on AI engineering: retrieval-augmented generation, multi-agent orchestration, local/open-source model serving, and guardrails for AI-generated output.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.datascienceportfol.io/madhanktam)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhan-kumar-tammineni-4487a4197/)  
-![Email](https://img.shields.io/badge/Email-madhanktam@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)  
-![Phone](https://img.shields.io/badge/Phone-%2B1--901--292--2574-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)  
+I also run applied research on whether AI systems can actually be trusted — controlled experiments on LLM instruction-following and hallucination behavior, and a federated-learning defense against data/model poisoning (submitted to IEEE S&P 2026). That same habit of testing for where a system breaks, not just where it works, is why my RAG pipeline exists in the first place: I found a real bug where off-topic questions were pulling real patient records, and fixed it.
 
----
+**Currently building**: a multi-agent university assistant (LangGraph) that answers student questions across housing, fees, registration, majors, and campus jobs — more on this soon as it comes together.
 
-## 👨‍💻 About Me
-
-✨ A curious mind who loves transforming **data into insights**, **ideas into applications**, and **algorithms into impact**.  
-🌱 Currently diving deeper into **AI, Machine Learning, and Software Engineering** while blending my experience in **cloud, data, and cybersecurity**.  
-💡 I enjoy building solutions that don’t just work — but **scale, adapt, and make a difference**.  
-⚡ My journey has taken me from developing **enterprise apps in ServiceNow**, to crafting **fraud detection models**, to experimenting with **adaptive MFA in cybersecurity**.  
-🚀 Whether it’s **analyzing large datasets, designing architectures, or optimizing code**, I thrive on challenges that push me to learn and innovate.  
+Looking for **AI Engineer / Software Engineer** roles at product companies building AI-integrated features, agentic systems, or developer tools. Also open to health-tech given my St. Jude background, but not exclusively focused there.
 
 ---
 
-## 💼 Experience
+## Experience
 
-**Graduate Research Assistant – University of Memphis**  
-📅 Feb 2025 – Present  
-- Designed & maintained **cybersecurity training dashboards** in Power BI for FEMA compliance.  
-- Improved curriculum planning efficiency by **30%** through structured data reporting.  
-- Participated in Agile sprints and research documentation.  
+**Software Engineering Intern — St. Jude Children's Research Hospital**
+*Mar 2026 – Present*
+- Built a full-stack web portal (React, Python, FastAPI) for gene therapy researchers to upload, explore, and analyze genomic integration site data
+- Integrated Google DeepMind's AlphaGenome API for automated predictive analysis, replacing hours of manual review with an AI-driven pipeline
+- Replaced static data tables with an interactive genome browser, automated hotspot detection, and dynamic charts
 
-**Associate Software Engineer – Carelon Global Solutions**  
-📅 Sep 2023 – Jan 2025  
-- Built ServiceNow apps to automate enterprise governance workflows.  
-- Integrated **Power BI dashboards** for compliance tracking.  
-- Contributed to **Spark.AI internal AI initiative** and ESG-focused apps.  
+**Graduate Research Assistant — University of Memphis**
+*Feb 2025 – Present*
+- Running controlled experiments on LLM instruction-following and hallucination behavior across ChatGPT, Gemini, and Claude, targeting publication at ACL/EMNLP/AAAI
+- Contributed to a Secure Federated Learning framework defending against data and model poisoning attacks — trained and benchmarked SVM, Random Forest, MLP, and CNN (AlexNet, GoogLeNet) models across IID/non-IID settings; findings submitted to IEEE S&P 2026
+- Built Power BI dashboards transforming raw logs into structured KPIs, cutting manual tracking effort 30%
 
-**Cloud & Data Engineering Intern – LTIMindtree**  
-📅 Jan 2023 – Aug 2023  
-- Automated AWS infra deployment with **Terraform**.  
-- Configured S3 + IAM policies to enhance security.  
-- Monitored logs & metrics via CloudWatch.  
+**ServiceNow Developer — Carelon Global Solutions**
+*Sep 2023 – Jan 2025*
+- Developed and configured ServiceNow applications, forms, and catalog items using Business Rules, Client Scripts, UI Policies, and Script Includes
+- Automated low-priority ticket handling via server-side scripting and workflow rules, cutting ticket volume 25% and saving ~15% of analyst time
+- Contributed to an internal AI initiative (Spark.AI) alongside core platform work
 
-**Cloud Virtual Intern – Amazon Web Services**  
-📅 Oct 2021 – Dec 2021  
-- Built **serverless workflows** with S3 & Lambda.  
-- Explored RDS, IAM for secure scalable architectures.  
-
----
-
-## 🚀 Projects
-
-- 🗳️ **ID-Based Electronic Voting Machine (Fingerprint Auth)**  
-  - Prevented multiple voting attempts with Python + Arduino.  
-  - Published in **JUNI KHYAT Journal (UGC Care)**.  
-
-- 💳 **Fraud Detection System for Credit Cards**  
-  - Logistic Regression + AdaBoost on 100k+ transactions.  
-  - Achieved **92% accuracy**.  
-  - Published in **TIJER International Journal**.  
-
-- 🛒 **StyleSphere E-Commerce Platform (MySQL)**  
-  - Designed schema + query optimization, boosting SQL efficiency **30%**.  
-  - Built **revenue & churn reports** + UI with Figma.  
-
-- 🔐 **Adaptive MFA Security Layer**  
-  - Developed **trust-score–based authentication model**.  
-
-- 🧬 **St. Jude BioHackathon (KIDS25)**  
-  - Protein structure visualization with **AlphaFold & R-Shiny**.  
+**Cloud & Data Engineering Intern — LTIMindtree**
+*Jan 2023 – Aug 2023*
+- Provisioned AWS resources (EC2, S3, IAM) using Terraform; configured CloudWatch monitoring and supported data ingestion POCs
 
 ---
 
-## 🛠️ Skills
+## Featured Projects
 
-### 💻 Languages & Tools  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) 
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) 
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)  
-![ServiceNow](https://img.shields.io/badge/ServiceNow-1BB55C?style=for-the-badge&logo=servicenow&logoColor=white)  
+### Integrated Patient Records & AI Clinical Decision Assistant
+`React` `FastAPI` `MongoDB` `Gemini API` `ChromaDB` `sentence-transformers` `Ollama`
 
----
+Full-stack system unifying 6 departments of multi-vendor patient data (MRI, X-Ray, ECG, CT, labs, treatment history) into a single timeline, with an AI clinical assistant answering natural-language questions across a patient's full record.
 
-### 🤖 Data Science & ML  
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) 
-![NLP](https://img.shields.io/badge/NLP-CC0000?style=for-the-badge&logo=OpenAI&logoColor=white) 
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-000000?style=for-the-badge&logo=Keras&logoColor=white)  
+- RAG pipeline: local sentence-transformers embeddings + patient-scoped ChromaDB retrieval, running as a semantic fallback when keyword-based routing misses synonyms (e.g., "blood cell count" → WBC). Embeddings run locally — patient data never hits an external API for search.
+- Found and fixed a real retrieval-floor bug in live testing: nearest-neighbor search has no built-in "nothing is relevant" case, so off-topic messages were retrieving real patient records. Added a cosine-distance relevance threshold to fix it.
+- Multi-agent orchestration: hand-rolled specialist-per-department routing with a synthesizer pass for compound, multi-department questions.
+- Local open-source vision inference: MedGemma via Ollama as an on-prem alternative to cloud-based image analysis.
+- Guardrails: citation verification, confidence gating, and drug-dosage/diagnosis-language flags on AI-generated responses.
+- Patient-ID filtering enforced at the database query level, not post-filtered — verified by a dedicated test, since retrieval that leaks across patients would be a real PHI exposure, not a cosmetic bug.
 
----
+→ [repo link]
 
-### 🗄️ Databases & Visualization  
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) 
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) 
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
-![ETL](https://img.shields.io/badge/ETL-FF6F00?style=for-the-badge&logo=apache-airflow&logoColor=white) 
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) 
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)  
+### Credit Risk Analytics — AMEX Dataset
+`Python` `XGBoost` `SHAP`
 
----
+Processed a 1.1M+ row, 190+ feature dataset with leakage-safe preprocessing; engineered customer-level temporal features and used SHAP to convert model predictions into actionable risk drivers.
 
-### ☁️ Cloud & DevOps  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) 
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white) 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)  
+→ [repo link]
+
+### TigerSwap — University Peer-to-Peer Marketplace
+`Next.js` `TypeScript` `Supabase`
+
+Secure P2P trading marketplace with `@memphis.edu` domain authentication and integrated campus pickup scheduling.
+
+→ [repo link]
+
+### St. Jude BioHackathon (KIDS25) — Protein Structure Visualization
+`AlphaFold` `R-Shiny`
+
+Built an interactive visualization tool for protein structure prediction output, presented at St. Jude's KIDS25 hackathon.
+
+→ [repo link]
 
 ---
 
-## 🎓 Education
+## Additional Projects
 
-- 🎓 **University of Memphis** (Jan 2025 – Expected Graduation Dec 2026)  
-  *MS in Computer Science, GPA: 4.0/4.0*  
-  Coursework: ML, AI, Cryptography, OS
-  - **Awards:** Peter I. Neathery Fellowship 🏅 | International Graduate Merit Scholarship 🎖️ 
+- **StyleSphere E-Commerce Platform** — `MySQL` `Figma` — schema design and query optimization (+30% SQL efficiency), revenue/churn reporting, UI in Figma
+- **Adaptive MFA Security Layer** — trust-score–based authentication model for adaptive multi-factor authentication
 
-- 🎓 **JNTU-H (Sreenidhi Institute of Science & Technology, India)** (2019 – 2023)  
-  *B.Tech in Electronics & Communication, GPA: 8.44/10*  
-  - Govt. Scholarship Awardee  
+→ [repo links]
 
 ---
 
-## 🏆 Certifications & Achievements
+## Research
 
-- AWS Cloud Virtual Internship  
-- Juniper Networks Virtual Internship  
-- Tableau & Machine Learning Bootcamps  
-- Published **2 research papers** in reputed journals  
-- Secured **State Government Scholarship** for Bachelor’s  
+- **Secure Federated Learning against data/model poisoning** — benchmarked classical ML and CNN defenses across IID/non-IID settings. *Submitted, IEEE S&P 2026.*
+- **LLM instruction-following and self-reported honesty** — testing whether ChatGPT, Gemini, and Claude comply with and honestly report on tool-disable instructions. *In progress, targeting ACL/EMNLP/AAAI.*
+- **Aadhaar-Based Electronic Voting Machine Using Fingerprint Authentication** — *JUNI KHYAT Journal (UGC Care)*
+- **Monitoring System for Preventing Unauthorized Credit Card Transactions** — *TIJER International Journal*
 
 ---
 
-## 📊 GitHub Analytics
+## Skills
+
+**AI Engineering:** RAG system design · Vector search (ChromaDB) · sentence-transformers · Local/open-source model serving (Ollama) · Multi-agent orchestration · Prompt engineering · LLM guardrails & output verification · LLM evaluation methodology
+
+**Languages & Frameworks:** Python · JavaScript · TypeScript · SQL · React · Next.js · FastAPI
+
+**Applied ML:** scikit-learn · XGBoost · SHAP · PyTorch (CNN training — AlexNet, GoogLeNet)
+
+**Infrastructure:** AWS (EC2, S3, IAM, CloudWatch) · Terraform · MongoDB · Linux · Git
+
+**Platforms & Visualization:** ServiceNow · Power BI
+
+---
+
+## Education
+
+**University of Memphis** — M.S. Computer Science, GPA: 3.5 · *Jan 2025 – Dec 2026*
+Coursework: Machine Learning, AI, Cryptography, Operating Systems
+Peter I. Neathery Fellowship · International Graduate Merit Scholarship
+
+**Sreenidhi Institute of Science & Technology** — B.Tech, Electronics & Communication Engineering · *2019 – 2023*
+
+---
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Madhan120-prog&theme=react-dark&hide_border=true" />
 </p>
-
----
-
