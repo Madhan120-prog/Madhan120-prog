@@ -28,7 +28,7 @@ Looking for **AI Engineer / Software Engineer** roles at product companies. Also
 ## 💼 Experience
 
 **Software Engineering Intern – St. Jude Children's Research Hospital**
-📅 Mar 2026 – Present
+📅 Mar 2026 – Aug 2026
 - Built a full-stack web portal (React, FastAPI) for gene therapy researchers to analyze genomic integration site data
 - Integrated Google DeepMind's **AlphaGenome API** for automated predictive analysis, replacing hours of manual review
 - Built an interactive genome browser with automated hotspot detection and dynamic charts
