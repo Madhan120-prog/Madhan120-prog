@@ -39,14 +39,14 @@ Looking for **AI Engineer / Software Engineer** roles at product companies. Also
 - Contributed to a **Secure Federated Learning** framework defending against data/model poisoning attacks
 - Built Power BI dashboards transforming raw logs into structured KPIs, cutting manual tracking effort **30%**
 
-**ServiceNow Developer – Carelon Global Solutions**
+**Software Engineer – Carelon Global Solutions(Elevance Health)**
 📅 Sep 2023 – Jan 2025
 - Developed ServiceNow applications, forms, and catalog items using Business Rules, Client Scripts, and Script Includes
 - Automated low-priority ticket handling, cutting ticket volume **25%** and saving ~15% of analyst time
 - Contributed to an internal AI initiative (Spark.AI) alongside core platform work
 
-**Cloud & Data Engineering Intern – LTIMindtree**
-📅 Jan 2023 – Aug 2023
+**Software Engineer– LTIMindtree**
+📅 Feb 2022 – July 2023
 - Automated AWS infra deployment with **Terraform**; configured S3 + IAM policies and CloudWatch monitoring
 
 ---
